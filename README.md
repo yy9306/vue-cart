@@ -1,8 +1,12 @@
 # lianxi
 
-> a
+> 飞入购物车
 
-## Build Setup
+## 演示
+
+![回到顶部](./images/cart.gif)
+
+### Build Setup
 
 ``` bash
 # install dependencies
